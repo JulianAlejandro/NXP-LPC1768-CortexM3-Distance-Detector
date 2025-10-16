@@ -1,0 +1,20 @@
+# Carpetas generadas por Keil
+build/
+listings/
+misc/
+DebugConfig/
+
+# Archivos de usuario específicos
+*.uvguix*
+EventRecorderStub.scvd
+
+# Archivos de compilación y dependencias
+*.d
+*.axf
+*.map
+*.dep
+*.crf
+*.o
+*.lst
+*.htm
+*.build_log.htm
